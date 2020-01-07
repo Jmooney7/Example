@@ -1,0 +1,3 @@
+*pyc 
+# This ignores all file types of PYC
+.project
